@@ -1,4 +1,4 @@
-# Guess-The-Number-Python-Game-
+# Guess-The-Number-Game-Python-
 A simple terminal-based number guessing game written in Python.
 
 ## Features

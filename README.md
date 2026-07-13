@@ -28,5 +28,4 @@ python guess_the_number_game.py
 
 ## Author
 
-Created by: Aarav Shrivastava"# Guess-the-Number-Game-Python-" 
-"# Guess-the-Number-Game-Python-" 
+Created by: Aarav Shrivastava"

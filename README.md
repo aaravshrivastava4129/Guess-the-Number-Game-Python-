@@ -1,4 +1,4 @@
-# Guess-The-Number-Game-Python-
+# Guess the Number Game (Python)
 A simple terminal-based number guessing game written in Python.
 
 ## Features
@@ -26,6 +26,6 @@ python guess_the_number_game.py
 * You will get hints if your guess is too high or too low
 * Guess the number before your attempts run out!
 
-## Author
+## Created by
 
-Created by: Aarav Shrivastava
+Aarav Shrivastava
